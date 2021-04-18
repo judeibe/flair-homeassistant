@@ -43,7 +43,7 @@ class IntegrationBlueprintApiClient:
                     response = await self._session.get(url, headers=headers)
                     return await response.json()
 
-                elif method == "put":
+                if method == "put":
                     await self._session.put(url, headers=headers, json=data)
 
                 elif method == "patch":

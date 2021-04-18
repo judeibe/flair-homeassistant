@@ -1,0 +1,13 @@
+{
+  "domain": "flair",
+  "name": "Flair",
+  "documentation": "https://github.com/judeibe/flair-homeassistant",
+  "issue_tracker": "https://github.com/judeibe/flair-homeassistant/issues",
+  "dependencies": [],
+  "version": "0.0.0",
+  "config_flow": true,
+  "codeowners": [
+    "@judeibe"
+  ],
+  "requirements": []
+}

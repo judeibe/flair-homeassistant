@@ -1,1 +1,11 @@
 pytest-homeassistant-custom-component==0.3.0
+
+pip==20.2.4
+wheel==0.36.2
+cryptography==3.3.2
+py==1.10.0
+setuptools==54.0.0
+pytest==6.2.2
+aiohttp==3.7.4.post0
+homeassistant==2021.4.0b4
+voluptuous==0.12.1
